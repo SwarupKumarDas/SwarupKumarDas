@@ -12,12 +12,13 @@
 - 👨‍💻 All of my projects are available at [https://allinonetools.io/](https://allinonetools.io/)
 
 - 📝 I regularly write articles on [https://allinonetools.io/blog](https://allinonetools.io/blog)
+- 📄 Know about my experiences [https://allinonetools.io/portfolio/](https://allinonetools.io/portfolio/)
 
 - 💬 Ask me about **Project management and Scrum**
 
-- 📫 How to reach me **8210412511**
+<!--- 📫 How to reach me **casestudiesbyswarup@gmail.com**-->
 
-- 📄 Know about my experiences [https://allinonetools.io/portfolio/](https://allinonetools.io/portfolio/)
+
 
 - ⚡ Fun fact **I think I am good organizer.**
 
