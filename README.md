@@ -14,11 +14,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarupkumardas" alt="swarupkumardas" /></a> </p> -->
 
 - 🔭 I’m currently working on **Document generation tool**
-
 - 🌱 I’m currently learning **Agentic AI**
-
 - 👨‍💻 All of my projects are available at [https://allinonetools.io/](https://allinonetools.io/)
-
 - 📝 I regularly write articles on [https://allinonetools.io/blog](https://allinonetools.io/blog)
 - 📄 Know about my experiences [https://allinonetools.io/portfolio/](https://allinonetools.io/portfolio/)
 
