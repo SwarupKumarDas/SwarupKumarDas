@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarup</h1>
-<h3 align="center">A passionate Project & Program manager from India</h3>
+<h3 align="center">I'm a Project & Program Manager based in Bangalore, India, with a strong foundation in IT Operations, Service Management, and a growing passion for Agentic AI. I combine structured delivery frameworks (Scrum, ITIL, PMP-aligned practices) with hands-on technical skills to bridge the gap between business needs and engineering execution.</h3>
 <!--
 <p align="left"> I'm a Project & Program Manager based in Bangalore, India, with a strong foundation in IT Operations, Service Management, and a growing passion for Agentic AI. I combine structured delivery frameworks (Scrum, ITIL, PMP-aligned practices) with hands-on technical skills to bridge the gap between business needs and engineering execution. </p>
 
