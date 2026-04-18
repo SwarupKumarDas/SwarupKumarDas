@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Swarup</h1>
 <h3 align="center">A passionate Project & Program manager from India</h3>
 <!--
+<p align="left"> I'm a Project & Program Manager based in Bangalore, India, with a strong foundation in IT Operations, Service Management, and a growing passion for Agentic AI. I combine structured delivery frameworks (Scrum, ITIL, PMP-aligned practices) with hands-on technical skills to bridge the gap between business needs and engineering execution. </p>
+
+🏗️ Currently building an AI-powered Document Generation Tool — automating offer letters, appraisal docs & org templates
+🤖 Actively researching Agentic AI workflows and how autonomous agents can transform project delivery
+🛠️ Founder of allinonetools.io — a growing suite of free productivity tools used by developers, PMs & everyday users
+📣 Running PMwithSwarup — a community for project managers to learn, share & grow
+🎯 Targeting CSM | PMP certifications to formalize my delivery expertise
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarupkumardas&label=Profile%20views&color=0e75b6&style=flat" alt="swarupkumardas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarupkumardas" alt="swarupkumardas" /></a> </p> -->
